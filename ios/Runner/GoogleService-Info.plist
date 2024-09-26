@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDXbw8jcMQrFQ2IZOqZLqSrEfcGgJ8Isp0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>891507571778</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mbenton.csc315TermProject</string>
+	<key>PROJECT_ID</key>
+	<string>seahawk-explorer</string>
+	<key>STORAGE_BUCKET</key>
+	<string>seahawk-explorer.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:891507571778:ios:9bdba644eb6c435b3401db</string>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891507571778",
+    "project_id": "seahawk-explorer",
+    "storage_bucket": "seahawk-explorer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891507571778:android:2a32fc553645d2ae3401db",
+        "android_client_info": {
+          "package_name": "com.example.csc_315_term_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAExeDhXg-ZNFxRqGCiluHhIDrANYqwPfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
