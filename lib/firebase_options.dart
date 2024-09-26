@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDXbw8jcMQrFQ2IZOqZLqSrEfcGgJ8Isp0',
+    apiKey: '',
     appId: '1:891507571778:ios:db86be7a9163d64a3401db',
     messagingSenderId: '891507571778',
     projectId: 'seahawk-explorer',
