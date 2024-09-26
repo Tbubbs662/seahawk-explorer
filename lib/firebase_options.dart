@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCyhOooPHgKCZVocib9cGZnZtUC0mLQS4w',
+    apiKey: '',
     appId: '1:891507571778:web:b2390f27eb691dff3401db',
     messagingSenderId: '891507571778',
     projectId: 'seahawk-explorer',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAExeDhXg-ZNFxRqGCiluHhIDrANYqwPfE',
+    apiKey: '',
     appId: '1:891507571778:android:2a32fc553645d2ae3401db',
     messagingSenderId: '891507571778',
     projectId: 'seahawk-explorer',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDXbw8jcMQrFQ2IZOqZLqSrEfcGgJ8Isp0',
+    apiKey: '',
     appId: '1:891507571778:ios:9bdba644eb6c435b3401db',
     messagingSenderId: '891507571778',
     projectId: 'seahawk-explorer',
