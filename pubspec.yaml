@@ -1,0 +1,28 @@
+name: csc_315_term_project
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.4 <4.0.0'
+
+dependencies:
+  firebase_storage: ^11.6.9
+  image_picker: ^1.0.7
+  firebase_auth: ^4.17.8
+  firebase_core: ^2.27.0
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^4.15.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.3
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - assets/images/
+
